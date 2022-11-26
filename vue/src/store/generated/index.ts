@@ -1,8 +1,10 @@
 // THIS FILE IS GENERATED AUTOMATICALLY. DO NOT MODIFY.
 
+import PlanetBlog from './planet.blog'
 
 
 export default { 
+  PlanetBlog: load(PlanetBlog, 'planet.blog'),
   
 }
 
